@@ -1,8 +1,1 @@
-{
-  "name": "Personal media feed",
-  "description": "",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://cdn.jsdelivr.net/gh/chuotvang1611/static-cdn@builds/plugins.json"
-  ]
-}
+{"name":"Personal media feed","description":"","manifestVersion":1,"pluginLists":["https://cdn.jsdelivr.net/gh/chuotvang1611/static-cdn@builds/plugins.json"]}
