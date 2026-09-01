@@ -1,9 +1,9 @@
 [
     {
-        "fileHash": "sha256-fe2cb699f84144b58664ef35e49f37c196d1a0c622491851907706f567632d37",
+        "fileHash": "sha256-d2a4718a5664441f5f630983200efa6a22a047b135b3c09ec3f0051f659e41fb",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/chuotvang1611/static-cdn",
-        "fileSize": 36312,
+        "fileSize": 36237,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -15,7 +15,7 @@
             "Anime",
             "AsianDrama"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "Core",
         "description": "Personal media feed",
         "url": "https://cdn.jsdelivr.net/gh/chuotvang1611/static-cdn@builds/Core.cs3",
