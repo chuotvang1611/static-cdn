@@ -1,0 +1,8 @@
+{
+  "name": "Personal media feed",
+  "description": "",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/chuotvang1611/static-cdn/builds/plugins.json"
+  ]
+}
