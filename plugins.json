@@ -18,7 +18,7 @@
         "version": 2,
         "internalName": "Core",
         "description": "Personal media feed",
-        "url": "https://raw.githubusercontent.com/chuotvang1611/static-cdn/builds/Core.cs3",
+        "url": "https://cdn.jsdelivr.net/gh/chuotvang1611/static-cdn@builds/Core.cs3",
         "name": "Core"
     }
 ]

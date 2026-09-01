@@ -3,6 +3,6 @@
   "description": "",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/chuotvang1611/static-cdn/builds/plugins.json"
+    "https://cdn.jsdelivr.net/gh/chuotvang1611/static-cdn@builds/plugins.json"
   ]
 }
