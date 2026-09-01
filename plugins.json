@@ -1,0 +1,24 @@
+[
+    {
+        "fileHash": "sha256-316a03ddc858dad53cfd65cdc3d8e4f6fd6c4eba88f5f46a45d2a316c5018371",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/chuotvang1611/static-cdn",
+        "fileSize": 35415,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "chuotvang1611"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 2,
+        "internalName": "Core",
+        "description": "Personal media feed",
+        "url": "https://raw.githubusercontent.com/chuotvang1611/static-cdn/builds/Core.cs3",
+        "name": "Core"
+    }
+]
